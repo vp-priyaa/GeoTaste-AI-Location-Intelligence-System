@@ -71,4 +71,4 @@ The project demonstrates practical applications of:
 
 ## Author
 
-Vishnu Priya
+Vishnu Priya V
